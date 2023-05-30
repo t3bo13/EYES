@@ -17,6 +17,6 @@ OR
 
 1. Download the files.
 2. Extract the compressed file into a local folder
-3. Open 'index.html'
+3. Open 'eyes.html'
 
 
