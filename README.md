@@ -6,9 +6,6 @@ This repository contains the HTML project that demonstrates moving eyes that fol
 
 The Moving Eyes HTML project is a fun and interactive web page that showcases a pair of eyes following the mouse cursor. The eyes move smoothly and realistically, giving the illusion of tracking the cursor's movement.
 
-## Demo
-
-To see the project in action, you can visit the [live demo](https://example.com) hosted on GitHub Pages.
 
 ## Getting Started
 
