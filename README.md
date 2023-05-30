@@ -19,4 +19,8 @@ OR
 2. Extract the compressed file into a local folder
 3. Open 'eyes.html'
 
+# Roadmap of future improvements
+
+For the eyes to also blink after a random amount of seconds.
+
 
